@@ -50,7 +50,6 @@ public class G5_9205 {
 			festivalY = Integer.parseInt(st.nextToken());
 
 			visited = new int[n];
-			Arrays.fill(visited, 0);
 
 			bw.write(bfs() ? "happy\n" : "sad\n");
 		}
