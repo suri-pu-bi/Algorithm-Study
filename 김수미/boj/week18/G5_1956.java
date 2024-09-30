@@ -1,4 +1,4 @@
-package 김수미.boj;
+package 김수미.boj.week18;
 
 /**
  * Author    : Kim Su Mi
